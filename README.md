@@ -11,6 +11,11 @@ Classifers were addtionally used to reduce bias in sampling and clustering of da
 
 ##**Results**
 
+In relation to results to be discussed, the following is considered in interpretation of classification reports to drawn conclusions on accuracy of model predictions:
+- Precision - the measure of the reliability of a true positive classification.
+- Recall - the ability of the model to find all true positive samples.
+- F1 - the weighted average of precision and recall, being on a scale of 0.0 (being the lowest) to 1.0 (being the highest)
+
 The following are results of all machine learning models tested:
 
 - Naive Random Oversampling
