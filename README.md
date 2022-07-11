@@ -59,6 +59,14 @@ The following are results of all machine learning models tested:
 
 ![BRFM_results](https://user-images.githubusercontent.com/100040705/178186594-b2a40a3e-565f-4cdc-b5a9-1197b7793945.png)
 
+  - For this model, features were ranked by importance as well, giving insights as to what factors affect high risk classification the most. This could be used to reduce the number of features used in models, potentially improving both run time and accuracy. The top of the resulting most important features are as shown below, sorted by most to least importance (full list may be view in credit_risk_ensemble.ipynb):
+
+![BRFM_feat_import](https://user-images.githubusercontent.com/100040705/178186889-648e1562-ab44-408b-a5e6-e2dd69d7d746.png)
+
+
+
+
+
 
 
 
