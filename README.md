@@ -63,6 +63,14 @@ The following are results of all machine learning models tested:
 
 ![BRFM_feat_import](https://user-images.githubusercontent.com/100040705/178186889-648e1562-ab44-408b-a5e6-e2dd69d7d746.png)
 
+- Easy Ensemble AdaBoost Classifier
+  - This algorithm  is built off of adaptive boosting, where each model trained learns from the errors before it n number of times. The number of models ran and trained on the previous, as before n, was set to 100. 
+
+![EEC_numbers](https://user-images.githubusercontent.com/100040705/178187284-0eb40e6a-4b82-4a3b-9104-46159fd29bdd.png)
+
+  - This model showed significant improvements over all previous, with an accuracy score of 0.996, or representing 99.6% of the dataset. However, the precision and recall was the same as the Balanced Random Forests model before, being 0.9 and 0.37 respectively. Since the credit screening company would likely want to detect all possible positives for high credit risk this may also not be a suitable model without modifications, though it shows the most promise for accurate training data representation. 
+
+![EEC_results](https://user-images.githubusercontent.com/100040705/178187506-3d5937e0-2372-4abc-abee-ad6ef5cae1d6.png)
 
 
 
