@@ -1,4 +1,7 @@
 # Credit_Risk_Analysis
+Established a supervised machine learning model trained and tested on credit risk data through a variety of methods to establish credit risk based on a number of factors. 
+
+------------------------------------------------
 
 ##**Overview**
 
@@ -8,6 +11,7 @@ The primary libraries used to do so were imbalanced-learn and scikit-learn.
 Through these the data was under, oversampled, or combination sampled as well as being scaled to attempt to tailor the most accurate and precise results.
 Classifers were addtionally used to reduce bias in sampling and clustering of data. These machine learning algorithms were designed to predict if potential lenders would be a credit risks, and what factors makes for the most risky lender.
 
+------------------------------------------------
 
 ##**Results**
 
@@ -78,6 +82,7 @@ The following are results of all machine learning models tested:
 
 ![EEC_results](https://user-images.githubusercontent.com/100040705/178187506-3d5937e0-2372-4abc-abee-ad6ef5cae1d6.png)
 
+------------------------------------------------
 
 ##**Summary**
 
@@ -85,6 +90,10 @@ Overall, no model tested met the needs of the credit risk company for screening 
 
 Additional data cleaning could be done using the random forest feature importance ranking to remove the least weighted factors, which could potentially improve model prediction accuracy, precision, and sensitivity. 
 
+------------------------------------------------
 
+##**Contact Me**
 
+Email: sarahhumphrey2016@outlook.com </br>
+[LinkedIn](https://www.linkedin.com/in/sarah-humphrey-data-analyst/)
 
